@@ -5,7 +5,7 @@
       <meta name="description" content="">
       <meta name="author" content="">
   
-      <title>{{ $name }}</title>
+      <title> @yield('title') </title>
   
       <!-- Bootstrap core CSS -->
       <link href="css/bootstrap.min.css" rel="stylesheet">
